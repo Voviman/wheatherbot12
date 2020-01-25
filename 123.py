@@ -4,7 +4,7 @@ import pyowm
 import telebot
 
 owm = pyowm.OWM('5edfb276a6e154e914b96ac9bf1cf2a0', language="ru")
-bot = telebot.TeleBot("986149616:AAGe3UbECorAMKDy7yCD_LL2cP106cEGH5E")
+bot = telebot.TeleBot("TOKEN")
 
 # обычеая отправка сообщений -->
 
